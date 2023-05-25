@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parea\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
+"PO-Revision-Date: 2017-04-18 22:01-0300\n"
+"Last-Translator: Marcelo Vieira <marceloquinze@gmail.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: en_GB\n"
+
+#: sidebar-blog.php
+#: sidebar-footer.php
+msgid "Sidebar"
+msgstr ""
+
+#: sidebar-blog.php
+#: sidebar-footer.php
+msgid "Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr ""
+
+#: index.php
+msgid "Newer Posts"
+msgstr ""
+
+#: index.php
+msgid "Older Posts"
+msgstr ""
+
+#: 404.php
+msgid "Page not found"
+msgstr ""
+
+#: 404.php
+msgid "Unfortunately, the page you tried to access doesn't exist on this site"
+msgstr ""
+
+#: 404.php
+msgid "What about doing a quick search?"
+msgstr ""
+
+#: comments.php
+msgid "Comments are closed."
+msgstr ""
+
+#: template-home.php
+msgid "Read More!"
+msgstr ""
+
+#: search.php
+msgid "Search results for "
+msgstr ""
+
+#: content-none.php
+msgid "Sorry. Nothing to show at the moment."
+msgstr ""
+
+#: content.php
+msgid "Featured"
+msgstr ""
+
+#: 404.php
+msgid "Latest Posts"
+msgstr ""
+
+#: archive.php
+#. index.php
+msgid "&#8249;&#8249; Newer posts "
+msgstr ""
+
+#: archive.php
+#. index.php
+msgid "Older posts &#8250;&#8250;"
+msgstr ""
+
+#: functions.php
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php
+msgid "Sidebar to be displayed on inner pages"
+msgstr ""
+
+#: functions.php
+msgid "Social Sidebar"
+msgstr ""
+
+#: functions.php
+msgid "Include your social links here"
+msgstr ""
+
+#: functions.php
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php
+msgid "Include your footer widgets here"
+msgstr ""
+
+#: customizer.php
+msgid "General Options"
+msgstr ""
+
+#: customizer.php
+msgid "General Options (Sidebars, etc)"
+msgstr ""
+
+#: customizer.php
+msgid "Show Sidebar on Home Page?"
+msgstr ""
+
+#: customizer.php
+msgid "Choose whether to show sidebar on Home Page"
+msgstr ""
+
+#: customizer.php
+msgid "Services Section"
+msgstr ""
+
+#: customizer.php
+msgid "Services section options"
+msgstr ""
+
+#: customizer.php
+msgid "Show Services Section?"
+msgstr ""
+
+#: customizer.php
+msgid "Choose whether to show the Services section or not"
+msgstr ""
+
+#: customizer.php
+msgid "Services"
+msgstr ""
+
+#: customizer.php
+msgid "Services title"
+msgstr ""
+
+#: customizer.php
+msgid "Type a title for the services section"
+msgstr ""
+
+#: customizer.php
+msgid "Find out what we can do for you"
+msgstr ""
+
+#: customizer.php
+msgid "Services subtitle"
+msgstr ""
+
+#: customizer.php
+msgid "Type a subtitle for the services section"
+msgstr ""
+
+#: customizer.php
+msgid "Title Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Title for Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Write a title for Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Description Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Description for Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Write a description for Service 1"
+msgstr ""
+
+#: customizer.php
+msgid "Choose an image for Service 1"
+msgstr ""
+
+
+#: customizer.php
+msgid "Title Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Title for Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Write a title for Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Description Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Description for Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Write a description for Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Choose an image for Service 2"
+msgstr ""
+
+#: customizer.php
+msgid "Title Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Title for Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Write a title for Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Description Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Description for Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Write a description for Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Choose an image for Service 3"
+msgstr ""
+
+#: customizer.php
+msgid "Blog Section"
+msgstr ""
+
+#: customizer.php
+msgid "Blog section options"
+msgstr ""
+
+#: customizer.php
+msgid "Our Blog"
+msgstr ""
+
+#: customizer.php
+msgid "Blog title"
+msgstr ""
+
+#: customizer.php
+msgid "Type a title for the blog section"
+msgstr ""
+
+#: customizer.php
+msgid "Our Special News Just For You"
+msgstr ""
+
+#: customizer.php
+msgid "Blog subtitle"
+msgstr ""
+
+#: customizer.php
+msgid "Type a subtitle for the blog section"
+msgstr ""
+
+#: customizer.php
+msgid "Copyright Section"
+msgstr ""
+
+#: customizer.php
+msgid "Copyright options"
+msgstr ""
+
+#: customizer.php
+msgid "Copyright - All rights reserved"
+msgstr ""
+
+#: customizer.php
+msgid "Copyright"
+msgstr ""
+
+#: customizer.php
+msgid "Type the copyright"
+msgstr ""
+
+#: customizer.php
+msgid "Map Section"
+msgstr ""
+
+#: customizer.php
+msgid "Map Section Options"
+msgstr ""
+
+#: customizer.php
+msgid "Show Map Section?"
+msgstr ""
+
+#: customizer.php
+msgid "Choose whether to show the map on theme"
+msgstr ""
+
+#: customizer.php
+msgid "Where are we?"
+msgstr ""
+
+#: customizer.php
+msgid "The Map Header"
+msgstr ""
+
+#: customizer.php
+msgid "Type something for the header"
+msgstr ""
+
+#: customizer.php
+msgid "Google Maps API key"
+msgstr ""
+
+#: customizer.php
+msgid "Get your key <a target="_blank" href="https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,places_backend&reusekey=true">here</a>"
+msgstr ""
+
+#: customizer.php
+msgid "Type your address here"
+msgstr "No special characters allowed"
+
+#: search.php
+msgid "Previous"
+msgstr ""
+
+#: search.php
+msgid "Next"
+msgstr ""
+
+#: content-archive.php
+#: content-featured.php
+#: content-image.php
+#: content-page.php
+#: content-search.php
+#: content-secondary.php
+#: content-single.php
+#: content-video.php
+#: content.php
+msgid "Edit this page"
+msgstr ""
+
+#: content.php
+#: content-single.php
+#: content-page.php
+msgid "Pages:"
+msgstr ""
+
+#: content.php
+#: content-single.php
+#: content-page.php
+msgid "Page"
+msgstr ""
+
+#: searchform.php
+msgid "Search &hellip;"
+msgstr ""
+
+#: comments.php
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: content-article-header-featured.php
+#: content-article-header-home.php
+#: content-article-header.php
+#: content-seconday.php
+msgid "Placeholder Image"
+msgstr ""
+
+#: template-home.php
+msgid "You need to generate an API key to see the map. Please, go to Appearence/Customize/Map Section and inform a valid Google Maps Embed API key."
+msgstr ""
